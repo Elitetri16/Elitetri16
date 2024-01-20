@@ -1,4 +1,4 @@
-[![MasterHead](https://chatgptmademedoit.com/wp-content/uploads/2023/12/bd3bd66a-8dfe-4d82-b1b0-f18122f3005b-930x620.jpg)](https:/elitetri.io)
+[![MasterHead](https://media.istockphoto.com/id/1312450278/vector/web-development-and-coding-concept.jpg?s=612x612&w=0&k=20&c=h9TzgMSH00CAXZgzbuKnxe57hRTub0gpdmREPWVQkgM=)](https:/elitetri.io)
 
 <h1 align="center">Hi 👋, I'm Samanwita Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
