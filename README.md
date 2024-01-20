@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1312450278/vector/web-development-and-coding-concept.jpg?s=612x612&w=0&k=20&c=h9TzgMSH00CAXZgzbuKnxe57hRTub0gpdmREPWVQkgM=)](https:/elitetri.io)
+[![MasterHead](https://media.istockphoto.com/id/1353974425/vector/abstract-technology-banner-background-abstract-banner-design-web-template-horizontal-header.jpg?s=170667a&w=0&k=20&c=r45OVEpdFOoJ-V2C6Cr475VtHX_RSZLRsCGJb1kupA8=)](https:/elitetri.io)
 
 <h1 align="center">Hi 👋, I'm Samanwita Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
