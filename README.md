@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samanwita Pal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"><img src = "https://i.pinimg.com/originals/0d/0d/40/0d0d404860ac8a5536563dbf00104bec.gif" alt="elitetri16" /> </p>
-- 🔭 I’m currently working on **Developing New Features, Bug Fixing, Code Review, Learning New Technologies, Research**
+- 🔭 I’m currently working on Developing New Features, Bug Fixing, Code Review, Learning New Technologies, Research
 
 - 🌱 I’m currently learning **Web Design & Development, Machine Learning**
 
